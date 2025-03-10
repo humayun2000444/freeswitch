@@ -1,0 +1,12 @@
+<include>
+  <user id="09646999999">
+    <params>
+      <param name="password" value="09646999999##asdf"/>
+    </params>
+    <variables>
+      <variable name="caller_id_name" value="09646999999"/>
+      <variable name="caller_id_number" value="09646999999"/>
+      <variable name="user_context" value="after_esl"/>
+    </variables>
+  </user>
+</include>
